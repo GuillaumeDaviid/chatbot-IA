@@ -20,7 +20,7 @@ function Chat() {
 
     return(
         <div>
-            <h1>Chat Bot with GPT</h1>
+            <h1 className='title'>Chat Bot with GPT</h1>
             <div className="chat_bot" id="chat_bot">
                 <div className='chat_bot_content-msg' id='chat_bot_content-msg'>
                 <h2 className='chat_bot-msg'>Bot :</h2>
